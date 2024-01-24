@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.3c785593.css",
-    "main.js": "/react-app/static/js/main.95183edc.js",
-    "static/js/787.5cd658ff.chunk.js": "/react-app/static/js/787.5cd658ff.chunk.js",
-    "index.html": "/react-app/index.html",
-    "main.3c785593.css.map": "/react-app/static/css/main.3c785593.css.map",
-    "main.95183edc.js.map": "/react-app/static/js/main.95183edc.js.map",
-    "787.5cd658ff.chunk.js.map": "/react-app/static/js/787.5cd658ff.chunk.js.map"
+    "main.css": "/LGMVIP-ReactApi/static/css/main.3c785593.css",
+    "main.js": "/LGMVIP-ReactApi/static/js/main.35be325e.js",
+    "static/js/787.5cd658ff.chunk.js": "/LGMVIP-ReactApi/static/js/787.5cd658ff.chunk.js",
+    "index.html": "/LGMVIP-ReactApi/index.html",
+    "main.3c785593.css.map": "/LGMVIP-ReactApi/static/css/main.3c785593.css.map",
+    "main.35be325e.js.map": "/LGMVIP-ReactApi/static/js/main.35be325e.js.map",
+    "787.5cd658ff.chunk.js.map": "/LGMVIP-ReactApi/static/js/787.5cd658ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c785593.css",
-    "static/js/main.95183edc.js"
+    "static/js/main.35be325e.js"
   ]
 }
